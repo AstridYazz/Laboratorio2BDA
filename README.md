@@ -50,6 +50,9 @@
 ### Paso#15 Se inicia correctamente el programa Neo4J
 ![](https://github.com/AstridYazz/Lab-2/blob/main/Paso15.jpg)
 
+## Entorno controlado para la aplicación Neo4J
+### Paso#16 Vamos al link (https://docs.docker.com/get-started/get-docker/)
+![](https://github.com/AstridYazz/Lab-2/blob/main/Entorno1.jpg)
 
 ## Instalación de la aplicación de bases de datos REDIS
 ### Paso#1 Entrar a este link (https://github.com/microsoftarchive/redis/releases) 
