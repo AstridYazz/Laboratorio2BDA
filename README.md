@@ -85,3 +85,9 @@
 
 ### Paso#12 En el símbolo del sistema se coloca "redis-server"
 ![](https://github.com/AstridYazz/Lab-2/blob/main/Paso12REDIS.jpg)
+
+### Paso#13 Para saber si ya esta funcionando abrimos otro símbolo del sistema, pero esta vez colocamos "redis-cli"
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso13REDIS.jpg)
+
+### Paso#14 15. Luego se ingresa "Ping" y si nos devuelve PONG, se confirma que esta funcionando correctamente
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso14REDIS.jpg)
