@@ -1,6 +1,6 @@
 # Laboratorio 2 
 
-## Instalación de la aplicación de bases de datos Neo4J 
+## Instalación de la aplicación de bases de datos Neo4J
 
 ### Paso#1 Entrar a este link (https://neo4j.com/download/) 
 
@@ -53,6 +53,26 @@
 ## Entorno controlado para la aplicación Neo4J
 ### Paso#16 Vamos al link (https://docs.docker.com/get-started/get-docker/)
 ![](https://github.com/AstridYazz/Lab-2/blob/main/Entorno1.jpg)
+
+### Paso#17 Seleccionamos el instalador según el SO, en nuestro caso Windows
+
+### Paso#18 Seleccionamos "Docker Desktop for Windows - x86_64" para descargarlo
+![](https://github.com/AstridYazz/Lab-2/blob/main/Entorno2.jpg)
+
+### Paso#19 Se ejecuta el instalador
+![](https://github.com/AstridYazz/Lab-2/blob/main/Entorno3.jpg)
+
+### Paso#20 Esperar unos minutos a la instalación del programa 
+![](https://github.com/AstridYazz/Lab-2/blob/main/Entorno4.jpg)
+
+### Paso#21 Ingresamos a Visual Studio Code y se instala la extensión de docker
+![](https://github.com/AstridYazz/Lab-2/blob/main/Entorno5.jpg)
+
+### Paso#22 Creamos nuevos archivos de texto de tipo Dockerfile 
+![](https://github.com/AstridYazz/Lab-2/blob/main/Entorno6.jpg)
+
+### Paso#23 Crear las carpetas en los cuales guardar estos archivos
+![](https://github.com/AstridYazz/Lab-2/blob/main/Entorno7.jpg)
 
 ## Instalación de la aplicación de bases de datos REDIS
 ### Paso#1 Entrar a este link (https://github.com/microsoftarchive/redis/releases) 
