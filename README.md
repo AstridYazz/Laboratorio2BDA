@@ -50,7 +50,8 @@
 ### Paso#15 Se inicia correctamente el programa Neo4J
 ![](https://github.com/AstridYazz/Lab-2/blob/main/Paso15.jpg)
 
-### Creación de base de datos en Neo4J
+## Creación de base de datos en Neo4J
+### Paso#16 Se crea la base de datos en Neo4J con la contraseña 
 ![](https://github.com/AstridYazz/Lab-2/blob/main/PasoNEO4J.png)
 
 ## Instalación de la aplicación de bases de datos REDIS
