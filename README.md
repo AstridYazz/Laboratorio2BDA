@@ -1,4 +1,4 @@
-# Laboratorio 2 
+# Laboratorio 2: Abril Masis, Astrid Murillo
 
 ## Instalación de la aplicación de bases de datos Neo4J
 
