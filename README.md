@@ -51,7 +51,7 @@
 ![](https://github.com/AstridYazz/Lab-2/blob/main/Paso15.jpg)
 
 ### Creación de base de datos en Neo4J
-![](https://github.com/AstridYazz/Lab-2/blob/main/PasoNeo4J.jpg)
+![](https://github.com/AstridYazz/Lab-2/blob/main/PasoNEO4J.png)
 
 ## Instalación de la aplicación de bases de datos REDIS
 ### Paso#1 Entrar a este link (https://github.com/microsoftarchive/redis/releases) 
